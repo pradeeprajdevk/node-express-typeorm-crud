@@ -4,22 +4,22 @@ NodeJS - Express, Postgres with TypeORM CRUD
 
 # Folder Structure
 
-/node-express-typeorm-crud
-├── /src
-│ ├── /controllers
-│ │ └── user.controller.ts
-│ ├── /entities
-│ │ └── user.entity.ts
-│ ├── /routes
-│ │ └── user.routes.ts
-│ ├── /config
-│ │ └── database.ts
-│ ├── app.ts
-│ └── server.ts
-├── package.json
-├── tsconfig.json
-├── .env
-└── ormconfig.json
+/node-express-typeorm-crud<br>
+├── /src<br>
+│ ├── /controllers<br>
+│ │ └── user.controller.ts<br>
+│ ├── /entities<br>
+│ │ └── user.entity.ts<br>
+│ ├── /routes<br>
+│ │ └── user.routes.ts<br>
+│ ├── /config<br>
+│ │ └── database.ts<br>
+│ ├── app.ts<br>
+│ └── server.ts<br>
+├── package.json<br>
+├── tsconfig.json<br>
+├── .env<br>
+└── ormconfig.json<br>
 
 # Install Packages
 
